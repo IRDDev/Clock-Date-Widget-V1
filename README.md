@@ -59,4 +59,4 @@ Version 1 — A minimal implementation.
 
 ## License
 
-No open-source license has been selected yet. Until a license is added, the source code remains subject to applicable copyright law.
+This project is licensed under the MIT License. See the LICENSE file for details.
