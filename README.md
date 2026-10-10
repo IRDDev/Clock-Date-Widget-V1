@@ -73,3 +73,4 @@ Version 1 — Minimal clock and date widget.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ 
